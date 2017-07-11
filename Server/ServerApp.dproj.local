@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/07/11 14:09:25.811,=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/11 14:25:21.414,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\ServerApp.dproj=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/07/11 14:25:27.636,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\frmServer1.pas=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/11 14:25:27.636,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\frmServer1.dfm=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/07/11 14:25:41.593,C:\Users\halil\Desktop\Server\frmServer1.dfm=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\frmServer1.dfm</Transaction>
+    <Transaction>2017/07/11 14:25:41.593,C:\Users\halil\Desktop\Server\frmServer1.pas=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\frmServer1.pas</Transaction>
+    <Transaction>2017/07/11 14:26:15.512,C:\Users\halil\Desktop\Server\ServerApp.dproj=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\ServerApp.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
