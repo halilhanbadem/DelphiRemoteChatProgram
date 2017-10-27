@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/10/27 00:08:27.000.272,=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/27 15:16:06.160,=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/27 15:17:27.846,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\UPnP.dproj=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/10/27 15:17:31.136,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\UPnPEx.dproj=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\UPnP.dproj</Transaction>
+    <Transaction>2017/10/27 15:17:48.771,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\UPnP1.pas=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/10/27 15:17:48.771,C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\UPnP1.dfm=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/10/27 15:18:09.726,C:\Users\halil\Desktop\UPnPEx\UPnP1.dfm=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\UPnP1.dfm</Transaction>
+    <Transaction>2017/10/27 15:18:09.726,C:\Users\halil\Desktop\UPnPEx\UPnP1.pas=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\UPnP1.pas</Transaction>
+    <Transaction>2017/10/27 15:18:13.335,C:\Users\halil\Desktop\UPnPEx\UPnPEx.dproj=C:\Users\halil\OneDrive\Belgeler\Embarcadero\Studio\Projects\UPnPEx.dproj</Transaction>
+    <Transaction>2017/10/27 15:20:22.746,C:\Users\halil\Desktop\UPnPEx\UPnPFRM1.dfm=C:\Users\halil\Desktop\UPnPEx\UPnP1.dfm</Transaction>
+    <Transaction>2017/10/27 15:20:22.746,C:\Users\halil\Desktop\UPnPEx\UPnPFRM1.pas=C:\Users\halil\Desktop\UPnPEx\UPnP1.pas</Transaction>
+    <Transaction>2017/10/27 15:20:34.290,=C:\Users\halil\Desktop\UPnPEx\UPnP.pas</Transaction>
+  </Transactions>
+</BorlandProject>
